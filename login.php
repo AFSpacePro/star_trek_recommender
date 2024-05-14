@@ -50,4 +50,3 @@ if ($stmt->fetch()) {
 // Close statement and connection
 $stmt->close();
 $conn->close();
-?>
